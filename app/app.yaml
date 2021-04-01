@@ -1,0 +1,8 @@
+paths:
+    MODEL_NN: ../models/traffic_signs_2021-03-26_16-48-07.h5
+    MODEL_SVM: ../models/traffic_signs_svm.pickle
+    
+parameters:
+    IMAGE_WIDTH: 30
+    IMAGE_HEIGHT: 30
+    
